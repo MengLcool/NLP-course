@@ -1,0 +1,6 @@
+__pycache__/
+*.docx
+*.dic
+*.data
+*.model-*
+
